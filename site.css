@@ -1,0 +1,42 @@
+body {
+    background: lightseagreen;
+}
+
+nav {
+    width: 80%;
+}
+
+li {
+    display: inline-block;
+    font-size: 24px;
+    font-color: solid purple;
+}
+
+.main-class {
+    width: 65%;
+    border: 1px red;
+    margin: 2%;
+    padding: 2%;
+}
+
+.main-class p {
+
+    width: 65%;
+}
+aside {
+    width: 25%; 
+    border: 1px solid blue;
+}
+
+img {
+    width: 70%;
+}
+
+#left {
+    width: 70%;
+}
+#right {
+    width: 100%;
+
+}
+
